@@ -11,10 +11,10 @@
 </p></div>
 <div align="center"> <h1 align="center"> DATA VISUALIZATION </h1> </div>
 <p align="center">
-<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836163-6c30efea-f581-4c59-be1a-001dc2f6b226.png"/> </a> 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836163-6c30efea-f581-4c59-be1a-001dc2f6b226.png" height="64"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836119-adaf498b-6fcc-445e-9b02-13f6b8c81083.png" height="64"/> </a>    
-<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(22).png"/> </a>  
-<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(24).png"/> </a>   
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836197-6a6b9484-c697-4184-b0b5-2f5abb92613d.png" height="64"/> </a>  
+  
 <!--
 **MMisirci/MMisirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
