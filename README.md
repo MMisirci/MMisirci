@@ -27,8 +27,12 @@
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836702-1f7ac525-b230-4094-be81-f276470c3e68.png" height="64"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836709-f01aa597-972e-4c0c-8c52-d9ac4b5a096e.png" height="64"/> </a> 
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/77216571/170836710-2eac3219-3431-430a-b042-e557062c8be3.png" height="64"/> </a>    
-</p>  
-  
+</p>
+<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmisirci&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmisirci&theme=algolia" alt="my commit status" width="48.2%"/>
+</p>
 <!--
 **MMisirci/MMisirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
