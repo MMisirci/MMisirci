@@ -1,5 +1,20 @@
-### Hi there 👋
-
+### Hi there, I am Muzaffer... 👋
+- 🔭 I’m currently working on deep learning project!
+- 🌱 I’m currently learning machine learning and deep learning!
+- 💬 I enjoy to learn new things and share my knowledge with you!
+<div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
+<p align="center">
+<a href="https://www.linkedin.com/in/muzaffer-misirci/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:misirci.muzaffer@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+<a href="https://www.kaggle.com/muzaffermisirci"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://public.tableau.com/app/profile/muzaffer8570"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
+</p></div>
+<div align="center"> <h1 align="center"> DATA VISUALIZATION </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(1).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/seaborn.png" height="64"/> </a>    
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(22).png"/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(24).png"/> </a>   
 <!--
 **MMisirci/MMisirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
